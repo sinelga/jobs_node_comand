@@ -18,5 +18,8 @@
   "preferGlobal": true,
   "bin": {
     "jobsearch": "index.js"
-  }	
+  },
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  }
 }
